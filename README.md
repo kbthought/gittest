@@ -1,17 +1,21 @@
-# Train the Trainer Post-test
+# Train the Trainer Pretest
 
-### Activity 3
+### Activity 2
 
-You are almost done! Just a few more steps to complete:
+The `self-assessment` branch has some issues and we want to get rid of it, but first let's rescue a couple of commits:
 
-- Type `echo "starting activity 3"` on your command line.
-- Remove the text in the current readme and replace it with two sections:
- - `## Need More Info` Followed by a list of the things you still found difficult or confusing as you completed this post-test _(remember this repository is private so only you and your trainer will see this list)_.
-- `## Feedback for the Future` Followed by any feedback you have on how we can improve the Train-the-Trainer course in the future.
-- Commit each section separately.
-- Now use the appropriate command to turn these in to a single commit.
-- Push your branch and create a pull request.
-- Run the `history` command in your terminal and copy/paste your history for the entire post-test into the Pull Request comment.
+- Type `echo "starting activity 2"` on your command line.
+- Create a new branch called `explain-git-github`
+- Rescue the following commits from this branch and place them on your new branch:
+ - `add prompt to explain git and github`
+ - `add instructions for activity 2`
+- Use the appropriate diff command to identify the new prompt in the `index.html` file
+- Open the `index.html` and respond to the prompts that have been added.
+- Amend the commit so that all of these changes appear to be a single commit.
+- Merge this branch with `master`, resolving any conflicts (keep the changes on your branch and discard those on master).
+- Add a tag marking this point in time as v1.0
+- When you are finished with the above, create a branch from the v0.1 tag to find Activity 3.
+
 
 ### Reminders
 
