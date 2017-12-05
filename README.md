@@ -1,17 +1,15 @@
 # Train the Trainer Post-test
 
-### Activity 3
+### Activity 1
 
-You are almost done! Just a few more steps to complete:
+Using the **GitHub Flow**, complete the following tasks:
 
-- Type `echo "starting activity 3"` on your command line.
-- Remove the text in the current readme and replace it with two sections:
- - `## Need More Info` Followed by a list of the things you still found difficult or confusing as you completed this post-test _(remember this repository is private so only you and your trainer will see this list)_.
-- `## Feedback for the Future` Followed by any feedback you have on how we can improve the Train-the-Trainer course in the future.
-- Commit each section separately.
-- Now use the appropriate command to turn these in to a single commit.
-- Push your branch and create a pull request.
-- Run the `history` command in your terminal and copy/paste your history for the entire post-test into the Pull Request comment.
+- Create an issue containing the steps for this activity as a task list.
+- Using the existing `more-to-learn` branch, edit the `index.html` file as instructed within the file itself.
+- When you finish, rebase the `more-to-learn` branch onto `master`.
+- Push your changes to GitHub and open a pull request (be sure to add the syntax to close your issue with your PR).
+- Mention the training team and then merge your PR.
+- Once your PR has been merged, check out the `self-assessment` branch to find the instructions for activity 2.
 
 ### Reminders
 
