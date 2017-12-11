@@ -1,6 +1,11 @@
 # Train the Trainer Post-test
 
-### Activity 1
+
+## Need More Info
+
+## Feedback for the Future
+Overall training is informative
+I will suggest the training should include git stash if can.  
 
 Using the **GitHub Flow**, complete the following tasks:
 
@@ -15,3 +20,4 @@ Using the **GitHub Flow**, complete the following tasks:
 
 - These activities use both GitHub.com and Git. Complete as many of the tasks locally as possible.
 - The last activity will require you to paste your command line history for the entire activity.
+
